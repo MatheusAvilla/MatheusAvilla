@@ -1,6 +1,6 @@
 # Olá, eu sou o Matheus Avilla Vial!
 
-## __Sou um estudante e também um desenvolvedor!__
+## Sou um estudante e também um desenvolvedor!
 - 💻 Estou atualmente trabalhando como desenvolvedor na empresa <a href="https://www.eteg.com.br/">Eteg Tecnologia</a>.
 - 📚 Gosto de conhecer um pouco de tudo relacionado a tecnologia!
 - 🤝 Estou sempre procurando projetos bacanas para colaborar.
