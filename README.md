@@ -13,9 +13,9 @@
 ### <a href="https://www.linkedin.com/in/matheus-avilla-vial-716b791a7">Linkedin</a>
 <a href="https://www.linkedin.com/in/matheus-avilla-vial-716b791a7"><img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" height="50px"></a>  
 
-### <a href="https://www.youtube.com/channel/UC3jT7Mzt1l7aAudQyluCSvQ">YouTube</a>
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MatheusAvilla&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height="200px">
+
+### <a href="https://www.youtube.com/channel/UC3jT7Mzt1l7aAudQyluCSvQ">YouTube</a>
 
 <a href="https://www.youtube.com/channel/UC3jT7Mzt1l7aAudQyluCSvQ"><img src="https://i.pinimg.com/564x/21/22/ee/2122ee7f9df41666d2ff5c634d6a5c2d.jpg" height="50px"></a>
 
