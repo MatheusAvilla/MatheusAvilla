@@ -18,8 +18,6 @@
 <a href="https://www.youtube.com/channel/UC3jT7Mzt1l7aAudQyluCSvQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3jt7mzt1l7aaudqylucsvq" height="30" width="40" /></a>
 </p>
 
-<br>
-
 ### Estatísticas do Github
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MatheusAvilla&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height="200px">  
 
