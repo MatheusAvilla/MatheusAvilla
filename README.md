@@ -25,6 +25,10 @@
 ### <a href="https://www.instagram.com/avillamat/">Instagram</a>
 <a href="https://www.instagram.com/avillamat/"><img href="https://www.instagram.com/avillamat/" src="https://possetem.com.br/wp-content/uploads/2019/08/K1gOgV-logo-instagram-cut-out-png.png" height="50px"></a>  
 
+<h3 align="right">Linguagens mais utilizadas atualmente</h3>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAvilla">
+
+
 
 
 
