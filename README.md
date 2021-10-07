@@ -1,6 +1,9 @@
 # Olá, eu sou o Matheus Avilla Vial!
+<<<<<<< HEAD
 
 <img src="images/link.gif" height="150px">
+=======
+>>>>>>> 32d2392e15699f945234e6f0ee5df8adb63ddc02
 
 ## Sou um estudante e também um desenvolvedor!
 - 💻 Estou atualmente trabalhando como desenvolvedor na empresa <a href="https://www.eteg.com.br/">Eteg Tecnologia</a>.
