@@ -1,4 +1,4 @@
-# __Olá, eu sou o Matheus Avilla Vial!__
+# Olá, eu sou o Matheus Avilla Vial!
 
 ## __Sou um estudante e também um desenvolvedor!__
 - 💻 Estou atualmente trabalhando como desenvolvedor na empresa <a href="https://www.eteg.com.br/">Eteg Tecnologia</a>.
