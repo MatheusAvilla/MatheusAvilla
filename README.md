@@ -6,8 +6,6 @@
 - 🤝 Estou sempre procurando projetos bacanas para colaborar.
 - ⚡ No meu tempo livre eu gosto de apreciar games, desenhar, tocar guitarra e assistir filmes.
 
-<br>
-
 ## __Conecte-se comigo:__
 
 ### <a href="https://www.linkedin.com/in/matheus-avilla-vial-716b791a7">Linkedin</a>
