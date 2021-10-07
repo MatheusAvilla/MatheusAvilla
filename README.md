@@ -22,11 +22,13 @@
 
 <a href="https://www.youtube.com/channel/UC3jT7Mzt1l7aAudQyluCSvQ"><img src="https://i.pinimg.com/564x/21/22/ee/2122ee7f9df41666d2ff5c634d6a5c2d.jpg" height="50px"></a>
 
+<h3 align="right">Linguagens mais utilizadas atualmente:</h3>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAvilla">
+
 ### <a href="https://www.instagram.com/avillamat/">Instagram</a>
 <a href="https://www.instagram.com/avillamat/"><img href="https://www.instagram.com/avillamat/" src="https://possetem.com.br/wp-content/uploads/2019/08/K1gOgV-logo-instagram-cut-out-png.png" height="50px"></a>  
 
-<h3 align="right">Linguagens mais utilizadas atualmente:</h3>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAvilla">
+
 
 
 
