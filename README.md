@@ -16,7 +16,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MatheusAvilla&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height="200px">  
 
 ### <a href="https://www.linkedin.com/in/matheus-avilla-vial-716b791a7">Linkedin</a>
-<a href="https://www.linkedin.com/in/matheus-avilla-vial-716b791a7"><img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" height="50px"></a>    
+<a href="https://www.linkedin.com/in/matheus-avilla-vial-716b791a7"><img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" height="50px"></a> 
+
+### <a href="https://www.instagram.com/avillamat/">Instagram</a>
+<a href="https://www.instagram.com/avillamat/"><img href="https://www.instagram.com/avillamat/" src="https://possetem.com.br/wp-content/uploads/2019/08/K1gOgV-logo-instagram-cut-out-png.png" height="50px"></a>     
 
 ### <a href="https://www.youtube.com/channel/UC3jT7Mzt1l7aAudQyluCSvQ">YouTube</a>
 
@@ -25,8 +28,7 @@
 <h3 align="right">Linguagens mais utilizadas atualmente:</h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAvilla">
 
-### <a href="https://www.instagram.com/avillamat/">Instagram</a>
-<a href="https://www.instagram.com/avillamat/"><img href="https://www.instagram.com/avillamat/" src="https://possetem.com.br/wp-content/uploads/2019/08/K1gOgV-logo-instagram-cut-out-png.png" height="50px"></a>  
+
 
 
 
