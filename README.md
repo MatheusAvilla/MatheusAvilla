@@ -3,7 +3,6 @@
 <img src="images/link.gif" height="150px">
 
 ## Sou um estudante e também um desenvolvedor!
-- 💻 Estou atualmente trabalhando como desenvolvedor na empresa <a href="https://www.eteg.com.br/">Eteg Tecnologia</a>.
 - 📚 Gosto de conhecer um pouco de tudo relacionado a tecnologia!
 - 🤝 Estou sempre procurando projetos bacanas para colaborar.
 - ⚡ No meu tempo livre eu gosto de apreciar games, desenhar, tocar guitarra e assistir filmes.
